@@ -1,4 +1,4 @@
-# STELA – Inspector
+## Web Property Finder
 
 ## Usage
 1. Click on the plugin icon, cursor will be changed to the **crosshair**
